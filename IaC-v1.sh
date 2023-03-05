@@ -1,3 +1,4 @@
+# Script para automatizar criação de usuários, grupos e diretórios no terminal Linux Ubuntu/Debian
 #!/bin/bash
 
 echo "Criação de diretórios"
